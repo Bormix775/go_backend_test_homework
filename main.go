@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"fmt" // Проверка
 )
 
 func Add(a, b int) int {
